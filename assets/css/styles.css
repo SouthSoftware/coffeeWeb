@@ -159,10 +159,6 @@ button {
   color: var(--first-color);
 }
 
-.nav__logo-img{
-  width: .75rem;
-}
-
 .nav__toggle{
   display: inline-flex;
   font-size: 1.15rem;
@@ -227,7 +223,7 @@ button {
 }
 
 .scroll-header .nav__logo-img{
-  mix-blend-mode: difference;
+  /* mix-blend-mode: difference; */
 }
 
 /* Active link */
